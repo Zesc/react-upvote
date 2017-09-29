@@ -17,3 +17,9 @@ npm run server
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
+
+
+# Comments:
+
+This app was created using the guidelines from a book called Fullstack React. So far the book
+explains really well how to start using react and how react framework build an app the react way.
